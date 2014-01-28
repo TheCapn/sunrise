@@ -1,0 +1,180 @@
+{"frames": [
+
+{
+	"filename": "warrior_down00.png",
+	"frame": {"x":2,"y":2,"w":28,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":28,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+{
+	"filename": "warrior_down01.png",
+	"frame": {"x":2,"y":2,"w":28,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":28,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+{
+	"filename": "warrior_down02.png",
+	"frame": {"x":36,"y":2,"w":26,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":26,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+{
+	"filename": "warrior_down03.png",
+	"frame": {"x":36,"y":2,"w":26,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":26,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+{
+	"filename": "warrior_down04.png",
+	"frame": {"x":36,"y":2,"w":26,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":26,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+{
+	"filename": "warrior_down05.png",
+	"frame": {"x":2,"y":2,"w":28,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":28,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+{
+	"filename": "warrior_down06.png",
+	"frame": {"x":36,"y":36,"w":26,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":2,"w":26,"h":30},
+	"sourceSize": {"w":32,"h":32}
+},
+{
+	"filename": "warrior_down07.png",
+	"frame": {"x":36,"y":36,"w":26,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":2,"w":26,"h":30},
+	"sourceSize": {"w":32,"h":32}
+},
+{
+	"filename": "warrior_down08.png",
+	"frame": {"x":36,"y":36,"w":26,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":2,"w":26,"h":30},
+	"sourceSize": {"w":32,"h":32}
+},
+{
+	"filename": "warrior_side00.png",
+	"frame": {"x":2,"y":32,"w":20,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":20,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+{
+	"filename": "warrior_side01.png",
+	"frame": {"x":2,"y":32,"w":20,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":20,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+{
+	"filename": "warrior_side02.png",
+	"frame": {"x":2,"y":32,"w":20,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":20,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+{
+	"filename": "warrior_side03.png",
+	"frame": {"x":34,"y":68,"w":20,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":20,"h":30},
+	"sourceSize": {"w":32,"h":32}
+},
+{
+	"filename": "warrior_side04.png",
+	"frame": {"x":34,"y":68,"w":20,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":20,"h":30},
+	"sourceSize": {"w":32,"h":32}
+},
+{
+	"filename": "warrior_side05.png",
+	"frame": {"x":34,"y":68,"w":20,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":20,"h":30},
+	"sourceSize": {"w":32,"h":32}
+},
+{
+	"filename": "warrior_side06.png",
+	"frame": {"x":2,"y":32,"w":20,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":20,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+{
+	"filename": "warrior_side07.png",
+	"frame": {"x":2,"y":32,"w":20,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":20,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+{
+	"filename": "warrior_side08.png",
+	"frame": {"x":2,"y":32,"w":20,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":20,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+{
+	"filename": "warrior_side09.png",
+	"frame": {"x":2,"y":54,"w":20,"h":30},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":20,"h":30},
+	"sourceSize": {"w":32,"h":32}
+},
+{
+	"filename": "warrior_side10.png",
+	"frame": {"x":2,"y":54,"w":20,"h":30},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":20,"h":30},
+	"sourceSize": {"w":32,"h":32}
+},
+{
+	"filename": "warrior_side11.png",
+	"frame": {"x":2,"y":54,"w":20,"h":30},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":20,"h":30},
+	"sourceSize": {"w":32,"h":32}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "warrior.png",
+	"format": "RGBA8888",
+	"size": {"w":64,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c0b15f8c18ec2d491d39d5197ef63c5e:4feafd4faaa59d17a115ce73661b417b:380ec401ba9cf63cd4c0319d938fb695$"
+}
+}

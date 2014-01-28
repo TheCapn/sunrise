@@ -1,0 +1,13 @@
+-main ApplicationMain 
+-lib openfl
+-lib actuate
+-lib spritesheet
+-cp src
+-D tools=1.2.8
+-D fdb
+-D web
+-swf-version 11.2
+-swf export/flash/bin/sunrise.swf
+-swf-header 480:800:60:000000
+-cp export/flash/haxe
+#--remap nme:flash
